@@ -28,5 +28,4 @@ def similar_license_plates(plate1,plate2)
   else
     puts "#{plate1} & #{plate2} are not too similar!"
   end
-
 end
